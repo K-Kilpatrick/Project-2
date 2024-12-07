@@ -1,4 +1,4 @@
-# Project-2
+# Project-2 Offensive Security CTF 
 Module 18: Students will attempt to exploit vulnerabilities on the organization's web application. Students will exploit the organization's Linux servers, and they'll exploit the organization's Windows servers. The project is structured as a Capture the Flag (CTF) style competition, so that each vulnerability that students exploit correlates with a "flag," and flags are worth various point amounts depending on the difficulty level of the exploit.
 
 Module Description
